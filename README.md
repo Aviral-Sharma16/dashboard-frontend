@@ -1,3 +1,9 @@
+## Industrial Forecast Intelligence Tool
+
+This is a React-based frontend dashboard for industrial spending insights.
+
+🔗 [Live Demo](https://Aviral-Sharma16.github.io/dashboard-frontend/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
